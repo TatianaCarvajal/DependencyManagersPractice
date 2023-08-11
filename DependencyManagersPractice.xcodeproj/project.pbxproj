@@ -13,6 +13,7 @@
 		750514FD2A60AADB00873546 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 750514FB2A60AADB00873546 /* Main.storyboard */; };
 		750514FF2A60AADC00873546 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 750514FE2A60AADC00873546 /* Assets.xcassets */; };
 		750515022A60AADC00873546 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 750515002A60AADC00873546 /* LaunchScreen.storyboard */; };
+		75A7AF5A2A8686EC00A3E269 /* TodoAnimation.json in Resources */ = {isa = PBXBuildFile; fileRef = 75A7AF592A8686EC00A3E269 /* TodoAnimation.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		750514FE2A60AADC00873546 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		750515012A60AADC00873546 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		750515032A60AADC00873546 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75A7AF592A8686EC00A3E269 /* TodoAnimation.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TodoAnimation.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		750514F42A60AADB00873546 /* DependencyManagersPractice */ = {
 			isa = PBXGroup;
 			children = (
+				75A7AF592A8686EC00A3E269 /* TodoAnimation.json */,
 				750514F52A60AADB00873546 /* AppDelegate.swift */,
 				750514F72A60AADB00873546 /* SceneDelegate.swift */,
 				750514F92A60AADB00873546 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75A7AF5A2A8686EC00A3E269 /* TodoAnimation.json in Resources */,
 				750515022A60AADC00873546 /* LaunchScreen.storyboard in Resources */,
 				750514FF2A60AADC00873546 /* Assets.xcassets in Resources */,
 				750514FD2A60AADB00873546 /* Main.storyboard in Resources */,
